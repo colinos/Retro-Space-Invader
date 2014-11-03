@@ -1,4 +1,4 @@
 Retro-Space-Invader
 ===================
 
-interactive Flash game
+Interactive Flash game, programmed in ActionScript 3.0.
